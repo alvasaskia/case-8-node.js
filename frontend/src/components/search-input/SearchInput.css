@@ -1,0 +1,16 @@
+.search-result {
+ padding: 1rem;
+}
+
+span {
+    display: block;
+}
+p {
+   display: inline;
+    padding-right: 4px;
+    
+}
+.heading {
+    font-weight: 600;
+   
+}

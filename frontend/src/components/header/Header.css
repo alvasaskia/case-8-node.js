@@ -1,0 +1,15 @@
+.header {
+    /* background-color: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2.5rem;
+    padding-top: 2.5rem;
+}
+
+.header img {
+    transition: all .8s;
+}
+.header img:hover {
+    transform: rotate(180deg);
+}

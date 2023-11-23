@@ -1,0 +1,55 @@
+.movie-card {
+  display: inline-block;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  /* border: 1px solid #e590a5; */
+  /* background-color: #E590A5;  */
+  padding: 5px;
+  text-align: center;
+  margin: 2px;
+  max-width: 380px;
+}
+
+/* .movie-card-content h3 {
+    text-transform: uppercase;
+    padding: 10px 0;
+    font-weight: 600;
+    letter-spacing: 5px;
+    font-size: 2.5rem;
+    color: #CC3625;
+} */
+
+.movie-card-content img {
+  max-width: 100%;
+}
+
+.movie-text {
+  text-align: left;
+}
+
+.movie-text p {
+    display: block;
+}
+
+.button-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-img img {
+color: none;
+}
+
+/* button {
+    color: #E590A5;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 500;
+    font-size: 2rem;
+    background-color: #CC3625;
+    border: none;
+    padding: 3rem;
+    border-radius: 100%;
+} */

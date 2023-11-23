@@ -1,0 +1,422 @@
+{
+    "cinema": {
+      "name": "Grand Budapest Cinema",
+      "movies": [
+       
+        {
+          "title": "Moonrise Kingdom",
+          "id": "2",
+          "year": "2012",
+          "duration": "94 min",
+          "img": "https://videolibrarian.com/downloads/880/download/Moonrise%20Kingdom%20Poster.jpg?cb=8203102bc479210211f12903f208f2d44bb&w=600",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit eaque in dicta incidunt mollitia optio commodi, quod eum, quam dolores reiciendis aspernatur at. Ea, esse?",
+          "shows": [
+            {
+              "time": "14:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": true},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },     {
+              "time": "16:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": true},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "20:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": true}
+              ]
+            },
+            {
+              "time": "12:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": false},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": true}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Fantastic Mr. Fox",
+          "id": "3",
+          "year": "2009",
+          "duration": "87 min",
+          "img": "https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit eaque in dicta incidunt mollitia optio commodi, quod eum, quam dolores reiciendis aspernatur at. Ea, esse?",
+          "shows": [     
+            {
+              "time": "19:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "14:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "17:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            },
+            {
+              "time": "21:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            }
+        ]
+        },
+        {
+          "title": "The Grand Budapest Hotel",
+          "id": "1",
+          "year": "2014",
+          "duration": "99 min",
+          "img": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt sequi quis sint sunt? Maiores dolorum soluta dolore facere fuga et!",
+          "shows": [
+            {
+              "time": "19:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "14:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+            
+              ]
+            },
+            {
+              "time": "17:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            },
+            {
+              "time": "21:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "id": "4",
+          "year": "2101",
+          "duration": "110 min",
+          "img": "https://m.media-amazon.com/images/M/MV5BYmUzODQ5MGItZTZlNy00MDBhLWIxMmItMjg4Y2QyNDFlMWQ2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt sequi quis sint sunt? Maiores dolorum soluta dolore facere fuga et!",
+          "shows": [
+            {
+              "time": "19:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "14:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true}
+              ]
+            },
+            {
+              "time": "17:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            },
+            {
+              "time": "21:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "id": "5",
+          "year": "2104",
+          "duration": "99 min",
+          "img": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_.jpg",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit eaque in dicta incidunt mollitia optio commodi, quod eum, quam dolores reiciendis aspernatur at. Ea, esse?",
+          "shows": [
+            {
+              "time": "19:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "14:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "17:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            },
+            {
+              "time": "21:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The French Dispatch",
+          "id": "6",
+          "year": "2021",
+          "duration": "90 mins",
+          "img": "https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+          "description": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt sequi quis sint sunt? Maiores dolorum soluta dolore facere fuga et!",
+          "shows": [
+            {
+              "time": "19:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "14:30",
+              "room": "Salong Belafonte",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "103", "booked": false},
+                {"seatNumber": "104", "booked": false},
+                {"seatNumber": "105", "booked": false},
+                {"seatNumber": "106", "booked": true},
+                {"seatNumber": "107", "booked": false},
+                {"seatNumber": "108", "booked": true},
+                {"seatNumber": "109", "booked": true},
+                {"seatNumber": "110", "booked": false},
+                {"seatNumber": "111", "booked": false},
+                {"seatNumber": "112", "booked": true}
+              ]
+            },
+            {
+              "time": "17:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "101", "booked": false},
+                {"seatNumber": "102", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            },
+            {
+              "time": "21:00",
+              "room": "Salong Mendl's",
+              "seats": [
+                {"seatNumber": "201", "booked": false},
+                {"seatNumber": "202", "booked": true},
+                {"seatNumber": "203", "booked": false},
+                {"seatNumber": "204", "booked": false},
+                {"seatNumber": "205", "booked": false},
+                {"seatNumber": "206", "booked": false}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
