@@ -1,0 +1,42 @@
+[
+    {
+        "shows": [
+            {
+                "time": "14:30",
+                "room": "Salong Belafonte",
+                "seats": [
+                    {"id": "101", "seatNumber": "101", "booked": false},
+                    {"id": "102", "seatNumber": "102", "booked": true},
+                    {"id": "103", "seatNumber": "103", "booked": true},
+                    {"id": "104", "seatNumber": "104", "booked": false},
+                    {"id": "105", "seatNumber": "105", "booked": false},
+                    {"id": "106", "seatNumber": "106", "booked": true},
+                    {"id": "107", "seatNumber": "107", "booked": false},
+                    {"id": "108", "seatNumber": "108", "booked": true},
+                    {"id": "109", "seatNumber": "109", "booked": true},
+                    {"id": "110", "seatNumber": "110", "booked": false},
+                    {"id": "111", "seatNumber": "111", "booked": false},
+                    {"id": "112", "seatNumber": "112", "booked": true}
+                  ]
+            },
+            {
+                "time": "16:30",
+                "room": "Salong Belafonte",
+                "seats":  [
+                    {"id": "101", "seatNumber": "101", "booked": false},
+                    {"id": "102", "seatNumber": "102", "booked": true},
+                    {"id": "103", "seatNumber": "103", "booked": true},
+                    {"id": "104", "seatNumber": "104", "booked": true},
+                    {"id": "105", "seatNumber": "105", "booked": true},
+                    {"id": "106", "seatNumber": "106", "booked": true},
+                    {"id": "107", "seatNumber": "107", "booked": false},
+                    {"id": "108", "seatNumber": "108", "booked": true},
+                    {"id": "109", "seatNumber": "109", "booked": true},
+                    {"id": "110", "seatNumber": "110", "booked": false},
+                    {"id": "111", "seatNumber": "111", "booked": false},
+                    {"id": "112", "seatNumber": "112", "booked": false}
+                  ]
+              }
+        ]
+    }
+]
